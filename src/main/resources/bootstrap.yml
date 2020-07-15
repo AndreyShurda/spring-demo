@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: pds
+  cloud:
+    config:
+      failFast: true
